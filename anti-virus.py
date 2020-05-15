@@ -2,25 +2,27 @@
 from colorama import Fore, Back, Style
 import time,os
 
-os.system('cls' or 'clear')
+os.system('clear')
+os.system('cls')
+
 
 
 print(Fore.RED + "anti virus")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.WHITE + "PROGRAMMERS MOHAMMADJAVAD HAGHBEIGI,MAHDI SALEHI KHAH")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.YELLOW + "options")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.BLUE + "1 check for virus")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.BLUE + "2 check for rat")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.BLUE + "3 check not hacked")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.BLUE + "4 check the your site of virus")
-time.sleep(0.1)
+time.sleep(0.4)
 print(Fore.BLUE + "5 check the your browser of hacking")
-time.sleep(0.1)
+time.sleep(0.4)
 youroption = input (Fore.YELLOW + " your option:")
 
 
