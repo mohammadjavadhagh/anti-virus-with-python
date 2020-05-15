@@ -5,40 +5,40 @@ import time,os
 os.system('cls' or 'clear')
 
 
-print(Fore.RED + "anti virus" + Fore.END)
+print(Fore.RED + "anti virus")
 time.sleep(0.1)
-print(Fore.GREEN + "PROGRAMMERS MOHAMMADJAVAD HAGHBEIGI,MAHDI SALEHI KHAH" + Fore.END)
+print(Fore.GREEN + "PROGRAMMERS MOHAMMADJAVAD HAGHBEIGI,MAHDI SALEHI KHAH" )
 time.sleep(0.1)
 print("options")
 time.sleep(0.1)
-print(Fore.CYAN + "1 check for virus" + Fore.END)
+print(Fore.CYAN + "1 check for virus")
 time.sleep(0.1)
-print(Fore.CYAN + "2 check for rat" + Fore.END)
+print(Fore.CYAN + "2 check for rat")
 time.sleep(0.1)
-print(Fore.CYAN + "3 check not hacked" + Fore.END)
+print(Fore.CYAN + "3 check not hacked")
 time.sleep(0.1)
-print(Fore.CYAN + "4 check the your site of virus" + Fore.END)
+print(Fore.CYAN + "4 check the your site of virus")
 time.sleep(0.1)
-print(Fore.CYAN + "5 check the your browser of hacking" + Fore.END)
+print(Fore.CYAN + "5 check the your browser of hacking" )
 time.sleep(0.1)
-youroption = input (Fore.YELLOW + "your option:" + Fore.END)
+youroption = input (Fore.YELLOW + "your option:"
 
 
 if "1" in youroption:
-    print("checking...")
+    print(Fore.RED + "checking...")
 
 
 if "2" in youroption:
-    print("checking rats...")
+    print(Fore.RED + "checking rats...")
 
 if "3" in youroption:
-    print("check four you hacked")
+    print(Fore.RED + "check four you hacked..")
 
 if "4" in youroption:
     address = input("site addres")
-    print("1 check four the robots")
-    print("2 check four ddos or dos")
-    INPUT = input("your option")
+    print(Fore.RED + "1 check four the robots")
+    print(Fore.RED "2 check four ddos or dos")
+    INPUT = input(Fore.RED + "your option")
 if INPUT == '1':
     print("checking for robots...")
 if INPUT == '2':
