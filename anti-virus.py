@@ -39,9 +39,9 @@ if "4" in youroption:
     print("1 check four the robots")
     print("2 check four ddos or dos")
 
-if address == '1':
+if '1' in address:
     print("1 check four the robots...")
-if address == '2':
+if '2' in address:
     print("2 check four ddos or dos...")
 
 p = input()
