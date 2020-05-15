@@ -21,7 +21,7 @@ print(Fore.BLUE + "4 check the your site of virus")
 time.sleep(0.1)
 print(Fore.BLUE + "5 check the your browser of hacking")
 time.sleep(0.1)
-youroption = input (Fore.YELLO"your option:")
+youroption = input (Fore.YELLO" + your option:")
 
 
 if "1" in youroption:
