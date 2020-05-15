@@ -45,9 +45,10 @@ if "3" in youroption:
 if "4" in youroption:
     os.system('clear')
     os.system('cls')
-    address = input("site addres")
-    print("1 check four the robots")
-    print("2 check four ddos or dos")
+    
+address = input("site addres")
+print("1 check four the robots")
+print("2 check four ddos or dos")
 
 if '1' in address:
     os.system('clear')
