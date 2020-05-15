@@ -49,12 +49,12 @@ if "4" in youroption:
 address = input("site addres")
 print("1 check four the robots")
 print("2 check four ddos or dos")
-
-if '1' in address:
+option = input("option: ")
+if '1' in option:
     os.system('clear')
     os.system('cls')
     print("1 check four the robots...")
-if '2' in address:
+if '2' in option:
     os.system('clear')
     os.system('cls')
     print("2 check four ddos or dos...")
