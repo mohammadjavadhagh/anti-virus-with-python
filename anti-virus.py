@@ -27,23 +27,35 @@ youroption = input (Fore.YELLOW + " your option:")
 
 
 if "1" in youroption:
+    os.system('clear')
+    os.system('cls')
     print("checking...")
 
 
 if "2" in youroption:
+    os.system('clear')
+    os.system('cls')
     print("checking rats...")
 
 if "3" in youroption:
+    os.system('clear')
+    os.system('cls')
     print("check four you hacked")
 
 if "4" in youroption:
+    os.system('clear')
+    os.system('cls')
     address = input("site addres")
     print("1 check four the robots")
     print("2 check four ddos or dos")
 
 if '1' in address:
+    os.system('clear')
+    os.system('cls')
     print("1 check four the robots...")
 if '2' in address:
+    os.system('clear')
+    os.system('cls')
     print("2 check four ddos or dos...")
 
 p = input()
